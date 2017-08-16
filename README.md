@@ -1,0 +1,2 @@
+# KanjiCode
+Website Kanji Code
